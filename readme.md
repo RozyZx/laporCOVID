@@ -9,7 +9,9 @@ Tugas UAS, oleh kelompok:
 https://rsbk-rozyzzx.s3.us-east-2.amazonaws.com/
 
 ### URL EC2 instance
+http://rsbkcovid-env.eba-hppb6yqa.us-east-2.elasticbeanstalk.com/
 
+# Dokumentasi EC2
 
 # Screenshots
 
